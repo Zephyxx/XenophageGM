@@ -6,6 +6,7 @@ draw_set_font(global.font_main);       //
 draw_set_valign(fa_top);               //  Draws, then aligns the text in the options menu here. 
 draw_set_halign(fa_left);              // 
 
+
 for (var i = 0; i < op_length; i++)
 	{
 		var _c = c_aqua; 
